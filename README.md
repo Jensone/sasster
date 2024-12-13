@@ -1,5 +1,5 @@
 
-![Build the SaaS you want](.github/assets/banner.jpg "Build the SaaS you want")
+![Build the SaaS you want](.github/assets/banner.png "Build the SaaS you want")
 
 <p align="center">
   <br/>
