@@ -28,3 +28,4 @@
 /public/media/cache/
 ###< liip/imagine-bundle ###
 src/DataFixtures/AppFixtures.php
+migrations/*
